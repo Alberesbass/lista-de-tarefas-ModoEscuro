@@ -1,7 +1,7 @@
 # Objetivo
 
 Este é um projeto simples criado para demonstrar habilidades em programação HTML, CSS e JavaScript.<br>
-O projeto consiste em uma lista de tarefas com a capacidade de alternar entre temas claros e escuros.
+O projeto consiste em uma lista de tarefas, o site permite que os usuários alternem entre um tema claro e escuro.
 
 <h2>Conteúdo</h2>
 
